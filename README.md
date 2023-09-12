@@ -1,2 +1,4 @@
-# CART451-Fall2023
-This is a public repository for CART 451.
+#CART451
+This is a respository for CART 451.
+Instructor: Sabine Rosenberg.
+Student: Huyen Tran Pham.
