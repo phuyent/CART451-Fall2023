@@ -1,5 +1,5 @@
 body {
-  background-image: url('/assets/images/bg-cat.jpg');
+  background-image:url(/assets/images/bg-cat.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -19,7 +19,7 @@ font-family: 'Noto Sans Mono', monospace;
 
 p.note {
   text-align: center;
-  color: #ffffff;
+  color: #b35900;
 }
 
 img {

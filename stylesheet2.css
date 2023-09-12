@@ -11,53 +11,22 @@ font-family: 'Noto Sans Mono', monospace;
   font-size: 60px;
   color: #ffffff;
   background-color: #b35900;
-    margin-left: 25%;
-  width: 20%;
-  border: 8px solid #ffffff;
-  padding: 40px;
-  text-align: center;
-}
-h5,h6,h6.p7,h6.p8 {
-font-family: 'Noto Sans Mono', monospace;
-  font-size: 60px;
-  color: #ffffff;
-  background-color: #b35900;
-    margin-left: 25%;
-  width: 20%;
+  margin-left: 20%;
+  width: 30%;
   border: 8px solid #ffffff;
   padding: 40px;
   text-align: center;
 }
 
-h6.p9,h6.p10 {
-font-family: 'Noto Sans Mono', monospace;
-  font-size: 60px;
-  color: #ffffff;
-  background-color: #b35900;
-    margin-left: 25%;
-  width: 20%;
-  border: 8px solid #ffffff;
-  padding: 40px;
-  text-align: center;
-}
 
-h6.p11,h6.p12, h6.p13 {
-font-family: 'Noto Sans Mono', monospace;
-  font-size: 60px;
-  color: #ffffff;
-  background-color: #b35900;
-    margin-left: 25%;
-  width: 20%;
-  border: 8px solid #ffffff;
-  padding: 40px;
-  text-align: center;
-}
-div.linkbox1 {
+
+
+.linkbox1 {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 24px;
   color: #ffffff;
   background-color: #b35900;
-  margin-left: 150px;
+  margin-left: 20%;
   width: 10%;
   border: 3px solid  #ffffff;
   padding: 10px;
@@ -67,21 +36,7 @@ div.linkbox1 {
 
 }
 
-div.linkbox2 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-
-
-}
-div.linkbox3 {
+.linkbox2 {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 24px;
   color: #ffffff;
@@ -96,142 +51,13 @@ div.linkbox3 {
 
 }
 
-div.linkbox4 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-
-
-}
-div.linkbox5 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-
-
-}
-
-div.linkbox6 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-
-
-}
-
-div.linkbox7 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
-div.linkbox8 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
-
-div.linkbox9 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
-div.linkbox10 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
-div.linkbox11 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
-div.linkbox12 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: 20px;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
-div.linkbox13 {
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
-  color: #ffffff;
-  background-color: #b35900;
-  margin: auto;
-  width: 10%;
-  border: 3px solid  #ffffff;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-}
 
 p {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 24px;
   color: #ffffff;
   background-color:#b35900;
-  margin-left: 25%;
+  margin-left: 20%;
   width: 50%;
   padding: 20px;
 }
@@ -249,12 +75,12 @@ a {
   color: #ffffff;
 }
 
-div.note {
+.note {
   text-align: center;
-    color: #ffffff;
+    color: #b35900;
 }
 
-div.linkbox {
+.linkbox {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 24px;
   color: #ffffff;
