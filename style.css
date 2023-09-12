@@ -39,7 +39,17 @@ div.linkbox2 {
   text-align: center;
 }
 
-
+div.linkbox3 {
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 24px;
+  color: #ffffff;
+  background-color: #b35900;
+  margin: auto;
+  width: 20%;
+  border: 3px solid  #ffffff;
+  padding: 10px;
+  text-align: center;
+}
 strong {
   text-decoration-color: #ffffff;
   text-decoration: underline;
